@@ -32,7 +32,7 @@ Vamos a tratar de hacer un modelo sencillo de cómo sería la base de datos nece
 - De cada artista guardamos un id único, nombre y una imagen del artista.
 - Un usuario puede seguir a muchos artistas.
 - Un artista puede estar relacionado con otros artistas que hagan música parecida. De modo que Spotify pueda mostrarnos un listado de artistas relacionados con los artistas que nos gustan.
-- También nos interesa guardar cuáles son los álbumes y las canciones favoritas de un usuario. Un usuario puede seleccionar muchos álbumes y muchas canciones como favoritas.
+- También nos interesa guardar cuáles son los álbumes y las canciones favoritas de un usuario. Un usuario puede seleccionar muchos álbumes y muchas canciones como favoritas. 
 
 ### EJERCICIO 2 - DDL
 
